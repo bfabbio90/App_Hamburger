@@ -1,6 +1,6 @@
 # 🍔 Projeto de Interface Solicitação de Lanches
 
-Este é um projeto de front-end feito com **HTML**, **Tailwind** e **JavaScript**, onde o usuário pode fazer pedidos de lanches.
+App Hamburger é uma plataforma de lanches com o front-end feito com **HTML**, **Tailwind** e **JavaScript**, onde o usuário pode fazer pedidos de lanches.
 
 ## 🛠 Tecnologias Utilizadas
 
